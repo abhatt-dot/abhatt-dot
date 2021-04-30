@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Avni
-- 🌱 I’m currently learning Java, Javascript, Python
-- 💞️ I’m looking to collaborate on open source, tech for good projects
 
 ![Avni's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhatt-dot&show_icons=true)
 
